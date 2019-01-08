@@ -1,6 +1,6 @@
 # Web-Phone-book
 
-SIMPLE WEB PHONE BOOK APP.. 
+SIMPLE WEB PHONEBOOK APP.. 
 
 Technologies used:
 Java, Sql, HTML, CSS
